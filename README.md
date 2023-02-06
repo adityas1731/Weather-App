@@ -5,4 +5,4 @@ https://adityas1731.github.io/Weather-App/
 
 Visit Above Link to access the website.
 
-Simply Enter city name to see the current temperature and weather.
+Simply enter City Name to see the Current Temperature and Weather.
